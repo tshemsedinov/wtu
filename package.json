@@ -1,0 +1,9 @@
+{
+  "main": "wtu.js",
+  "scripts": {
+    "start": "node wtu.js"
+  },
+  "engines": {
+    "node": "16 || 17"
+  }
+}
